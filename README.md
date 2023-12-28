@@ -1,5 +1,5 @@
 # Market Basket Analysis
-[image]
+[!image](cover.jpg)
 
 ## Introduction
 In the retail landscape, understanding customer purchasing behavior is crucial for optimizing business strategies. Market Basket Analysis is a powerful tool that allows us to uncover patterns and associations within customer transactions, revealing insights into product relationships and customer preferences. By delving into the data, we aim to provide actionable insights for businesses to enhance product placement, design targeted marketing campaigns, and ultimately improve the overall shopping experience.
